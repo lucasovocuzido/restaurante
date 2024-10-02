@@ -1,0 +1,39 @@
+
+
+header {
+    background-color: #8B0000; /* Vermelho escuro */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.menu, .gallery {
+    margin: 20px;
+    padding: 15px;
+    
+
+}
+
+.gallery img {
+    width: 30%;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #8B0000;
+    color: white;
+}
+
+body {
+    background-color: #8f4545;
+    font-family: 'Roboto', sans-serif;
+    background:url("img/images.jfif")no-repeat;
+    background-size: cover;
+}
+
+img{
+    height: 250px;
+}
